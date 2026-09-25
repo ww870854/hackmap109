@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\MyProject\d2hackmap\script\CMakeFiles\51a6738d466f2c6312a37568136eabc8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DD3E2D54-330C-3C00-9534-C28E5C35752F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
